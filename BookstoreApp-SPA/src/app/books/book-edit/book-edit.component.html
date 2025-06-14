@@ -1,0 +1,49 @@
+<div class="container mt-4">
+    <div class="row ml-1">
+      <h1 class="edittitle">{{book.title}}</h1>
+    </div>
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card">
+          <img class="card-img-top img-thumbnail" src="{{book.photoUrl || '../../../assets/book-placeholder.png'}}" alt="{{book.title}}">
+          <div class="card-body">
+            <div>
+              <strong>Author</strong>
+              <p>{{book.author}}</p>
+            </div>
+            <div>
+              <strong>Registered</strong>
+              <p>{{book.dateAdded | timeAgo}}</p>
+            </div>
+          </div>
+          <div class="card-footer">
+              <div class="btn-group d-flex">
+                  <button [disabled]="!form.dirty" form="form" class="btn btn-success w-100">Save Changes</button>
+                  <button class="btn btn-danger w-100" (click)="deleteBook(book.id)">Delete Book</button>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-8">
+        <div class="tab-panel">
+          <tabset class="member-tabset">
+            <tab heading="Edit Book">
+              <form #form="ngForm" id="form" (ngSubmit)="updateBook()"> 
+                <h4>Publisher</h4>  
+                <input class="form-control" type="text" name="publisher" [(ngModel)]="book.publisher">
+                <h4 class="mt-4">Description</h4>
+                <textarea name="description" rows="6" class="form-control"
+                  [(ngModel)]="book.description"></textarea>
+              </form>
+            </tab>
+            <tab heading="Edit Photos">
+              <app-photo-editor [bookId]="book.id" [photos]="book.photos" (getMemberPhotoChange)="updateMainPhoto($event)"></app-photo-editor>
+            </tab>
+          </tabset>
+        </div>
+        <div *ngIf="form.dirty" class="alert alert-info mt-4">
+          <strong>Information: </strong>You have made changes. Any unsaved changes will be lost!
+        </div>
+      </div>
+    </div>
+  </div>

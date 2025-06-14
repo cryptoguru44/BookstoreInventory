@@ -1,0 +1,2889 @@
+{
+  "BookstoreApp.API.dll": {
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Program.cs": {
+      "BookstoreApp.API.Program": {
+        "System.Void BookstoreApp.API.Program::Main(System.String[])": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.Extensions.Hosting.IHostBuilder BookstoreApp.API.Program::CreateHostBuilder(System.String[])": {
+          "Lines": {
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 12,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Startup.cs": {
+      "BookstoreApp.API.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration BookstoreApp.API.Startup::get_Configuration()": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 34,
+              "EndOffset": 36,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 34,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void BookstoreApp.API.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "81": 0,
+            "83": 0,
+            "85": 0,
+            "87": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 9,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 30,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 76,
+              "EndOffset": 78,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 76,
+              "EndOffset": 101,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 128,
+              "EndOffset": 130,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 128,
+              "EndOffset": 153,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void BookstoreApp.API.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookstoreApp.API.Startup/<>c": {
+        "System.Void BookstoreApp.API.Startup/<>c::<Configure>b__5_0(Microsoft.AspNetCore.Builder.IApplicationBuilder)": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 66,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 8,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Startup/<>c/<<Configure>b__5_3>d": {
+        "System.Void BookstoreApp.API.Startup/<>c/<<Configure>b__5_3>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 70,
+              "Offset": 73,
+              "EndOffset": 78,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 73,
+              "Offset": 166,
+              "EndOffset": 168,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 73,
+              "Offset": 166,
+              "EndOffset": 233,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 70,
+              "Offset": 73,
+              "EndOffset": 242,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Models/Book.cs": {
+      "BookstoreApp.API.Models.Book": {
+        "System.Int32 BookstoreApp.API.Models.Book::get_Id()": {
+          "Lines": {
+            "8": 59
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Models.Book::get_Title()": {
+          "Lines": {
+            "9": 41
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Models.Book::get_Author()": {
+          "Lines": {
+            "10": 20
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Models.Book::get_Publisher()": {
+          "Lines": {
+            "11": 20
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Models.Book::get_Description()": {
+          "Lines": {
+            "12": 20
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Models.Book::get_DateAdded()": {
+          "Lines": {
+            "13": 20
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Models.Book::get_DateModified()": {
+          "Lines": {
+            "14": 20
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<BookstoreApp.API.Models.Photo> BookstoreApp.API.Models.Book::get_Photos()": {
+          "Lines": {
+            "15": 60
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Models/Photo.cs": {
+      "BookstoreApp.API.Models.Photo": {
+        "System.Int32 BookstoreApp.API.Models.Photo::get_Id()": {
+          "Lines": {
+            "7": 55
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Models.Photo::get_Url()": {
+          "Lines": {
+            "8": 20
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Models.Photo::get_Description()": {
+          "Lines": {
+            "9": 20
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Models.Photo::get_DateAdded()": {
+          "Lines": {
+            "10": 20
+          },
+          "Branches": []
+        },
+        "System.Boolean BookstoreApp.API.Models.Photo::get_IsMain()": {
+          "Lines": {
+            "11": 62
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Models.Photo::get_PublicId()": {
+          "Lines": {
+            "12": 6
+          },
+          "Branches": []
+        },
+        "BookstoreApp.API.Models.Book BookstoreApp.API.Models.Photo::get_Book()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 BookstoreApp.API.Models.Photo::get_BookId()": {
+          "Lines": {
+            "14": 9
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Models/User.cs": {
+      "BookstoreApp.API.Models.User": {
+        "System.Int32 BookstoreApp.API.Models.User::get_Id()": {
+          "Lines": {
+            "7": 13
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Models.User::get_Username()": {
+          "Lines": {
+            "8": 24
+          },
+          "Branches": []
+        },
+        "System.Byte[] BookstoreApp.API.Models.User::get_PasswordHash()": {
+          "Lines": {
+            "9": 13
+          },
+          "Branches": []
+        },
+        "System.Byte[] BookstoreApp.API.Models.User::get_PasswordSalt()": {
+          "Lines": {
+            "10": 13
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Models.User::get_Created()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Models.User::get_LastActive()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Migrations/20191202173104_AddedUserEntity.cs": {
+      "BookstoreApp.API.Migrations.AddedUserEntity": {
+        "System.Void BookstoreApp.API.Migrations.AddedUserEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 45,
+              "EndOffset": 70,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void BookstoreApp.API.Migrations.AddedUserEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Migrations/20191202173104_AddedUserEntity.Designer.cs": {
+      "BookstoreApp.API.Migrations.AddedUserEntity": {
+        "System.Void BookstoreApp.API.Migrations.AddedUserEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 30,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Migrations/20191205114854_AddedBookAndPhotoEntity.cs": {
+      "BookstoreApp.API.Migrations.AddedBookAndPhotoEntity": {
+        "System.Void BookstoreApp.API.Migrations.AddedBookAndPhotoEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 151,
+              "EndOffset": 153,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 151,
+              "EndOffset": 176,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 183,
+              "EndOffset": 185,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 183,
+              "EndOffset": 208,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 227,
+              "EndOffset": 229,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 227,
+              "EndOffset": 252,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 259,
+              "EndOffset": 261,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 259,
+              "EndOffset": 284,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void BookstoreApp.API.Migrations.AddedBookAndPhotoEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Migrations/20191205114854_AddedBookAndPhotoEntity.Designer.cs": {
+      "BookstoreApp.API.Migrations.AddedBookAndPhotoEntity": {
+        "System.Void BookstoreApp.API.Migrations.AddedBookAndPhotoEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "107": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 30,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 73,
+              "EndOffset": 75,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 73,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 116,
+              "EndOffset": 118,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 116,
+              "EndOffset": 141,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 159,
+              "EndOffset": 161,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 159,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Migrations/20191205120802_ExtendedBookEntity.cs": {
+      "BookstoreApp.API.Migrations.ExtendedBookEntity": {
+        "System.Void BookstoreApp.API.Migrations.ExtendedBookEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Migrations.ExtendedBookEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Migrations/20191205120802_ExtendedBookEntity.Designer.cs": {
+      "BookstoreApp.API.Migrations.ExtendedBookEntity": {
+        "System.Void BookstoreApp.API.Migrations.ExtendedBookEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "113": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 30,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 73,
+              "EndOffset": 75,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 73,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 78,
+              "Offset": 116,
+              "EndOffset": 118,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 78,
+              "Offset": 116,
+              "EndOffset": 141,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 159,
+              "EndOffset": 161,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 159,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Migrations/20191209114621_AddedPublicId.cs": {
+      "BookstoreApp.API.Migrations.AddedPublicId": {
+        "System.Void BookstoreApp.API.Migrations.AddedPublicId::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Migrations.AddedPublicId::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Migrations/20191209114621_AddedPublicId.Designer.cs": {
+      "BookstoreApp.API.Migrations.AddedPublicId": {
+        "System.Void BookstoreApp.API.Migrations.AddedPublicId::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "116": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 30,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 73,
+              "EndOffset": 75,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 73,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 116,
+              "EndOffset": 118,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 116,
+              "EndOffset": 141,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 107,
+              "Offset": 159,
+              "EndOffset": 161,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 107,
+              "Offset": 159,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Migrations/DataContextModelSnapshot.cs": {
+      "BookstoreApp.API.Migrations.DataContextModelSnapshot": {
+        "System.Void BookstoreApp.API.Migrations.DataContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "114": 0
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 30,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 73,
+              "EndOffset": 75,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 73,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 79,
+              "Offset": 116,
+              "EndOffset": 118,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 79,
+              "Offset": 116,
+              "EndOffset": 141,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 105,
+              "Offset": 159,
+              "EndOffset": 161,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 105,
+              "Offset": 159,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Helpers/AutoMapperProfiles.cs": {
+      "BookstoreApp.API.Helpers.AutoMapperProfiles": {
+        "System.Void BookstoreApp.API.Helpers.AutoMapperProfiles::.ctor()": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "22": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": [
+            {
+              "Line": 12,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 12,
+              "Offset": 77,
+              "EndOffset": 102,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 177,
+              "EndOffset": 179,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 177,
+              "EndOffset": 202,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Helpers/CloudinarySettings.cs": {
+      "BookstoreApp.API.Helpers.CloudinarySettings": {
+        "System.String BookstoreApp.API.Helpers.CloudinarySettings::get_CloudName()": {
+          "Lines": {
+            "5": 22
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Helpers.CloudinarySettings::get_ApiKey()": {
+          "Lines": {
+            "6": 11
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Helpers.CloudinarySettings::get_ApiSecret()": {
+          "Lines": {
+            "7": 11
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Helpers/Extensions.cs": {
+      "BookstoreApp.API.Helpers.Extensions": {
+        "System.Void BookstoreApp.API.Helpers.Extensions::AddApplicationError(Microsoft.AspNetCore.Http.HttpResponse,System.String)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Dtos/BookForDetailedDto.cs": {
+      "BookstoreApp.API.Dtos.BookForDetailedDto": {
+        "System.Int32 BookstoreApp.API.Dtos.BookForDetailedDto::get_Id()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.BookForDetailedDto::get_Title()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.BookForDetailedDto::get_Author()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.BookForDetailedDto::get_Publisher()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.BookForDetailedDto::get_Description()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Dtos.BookForDetailedDto::get_DateAdded()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Dtos.BookForDetailedDto::get_DateModified()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.BookForDetailedDto::get_PhotoUrl()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<BookstoreApp.API.Dtos.PhotoForDetailedDto> BookstoreApp.API.Dtos.BookForDetailedDto::get_Photos()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Dtos/BookForListDto.cs": {
+      "BookstoreApp.API.Dtos.BookForListDto": {
+        "System.Int32 BookstoreApp.API.Dtos.BookForListDto::get_Id()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.BookForListDto::get_Title()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Dtos.BookForListDto::get_DateAdded()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Dtos.BookForListDto::get_DateModified()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.BookForListDto::get_PhotoUrl()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Dtos/BookForUpdateDto.cs": {
+      "BookstoreApp.API.Dtos.BookForUpdateDto": {
+        "System.String BookstoreApp.API.Dtos.BookForUpdateDto::get_Publisher()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.BookForUpdateDto::get_Description()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Dtos/PhotoForCreationDto.cs": {
+      "BookstoreApp.API.Dtos.PhotoForCreationDto": {
+        "System.String BookstoreApp.API.Dtos.PhotoForCreationDto::get_Url()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Http.IFormFile BookstoreApp.API.Dtos.PhotoForCreationDto::get_File()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.PhotoForCreationDto::get_Description()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Dtos.PhotoForCreationDto::get_DateAdded()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.PhotoForCreationDto::get_PublicId()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Dtos.PhotoForCreationDto::.ctor()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Dtos/PhotoForDetailedDto.cs": {
+      "BookstoreApp.API.Dtos.PhotoForDetailedDto": {
+        "System.Int32 BookstoreApp.API.Dtos.PhotoForDetailedDto::get_Id()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.PhotoForDetailedDto::get_Url()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.PhotoForDetailedDto::get_Description()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Dtos.PhotoForDetailedDto::get_DateAdded()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean BookstoreApp.API.Dtos.PhotoForDetailedDto::get_IsMain()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Dtos/PhotoForReturnDto.cs": {
+      "BookstoreApp.API.Dtos.PhotoForReturnDto": {
+        "System.Int32 BookstoreApp.API.Dtos.PhotoForReturnDto::get_Id()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.PhotoForReturnDto::get_Url()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.PhotoForReturnDto::get_Description()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BookstoreApp.API.Dtos.PhotoForReturnDto::get_DateAdded()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean BookstoreApp.API.Dtos.PhotoForReturnDto::get_IsMain()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.PhotoForReturnDto::get_PublicId()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Dtos/UserForLoginDto.cs": {
+      "BookstoreApp.API.Dtos.UserForLoginDto": {
+        "System.String BookstoreApp.API.Dtos.UserForLoginDto::get_Username()": {
+          "Lines": {
+            "5": 8
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.UserForLoginDto::get_Password()": {
+          "Lines": {
+            "6": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Dtos/UserForRegisterDto.cs": {
+      "BookstoreApp.API.Dtos.UserForRegisterDto": {
+        "System.String BookstoreApp.API.Dtos.UserForRegisterDto::get_Username()": {
+          "Lines": {
+            "8": 15
+          },
+          "Branches": []
+        },
+        "System.String BookstoreApp.API.Dtos.UserForRegisterDto::get_Password()": {
+          "Lines": {
+            "12": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Data/AuthRepository.cs": {
+      "BookstoreApp.API.Data.AuthRepository": {
+        "System.Void BookstoreApp.API.Data.AuthRepository::CreatePasswordHash(System.String,System.Byte[]&,System.Byte[]&)": {
+          "Lines": {
+            "54": 3,
+            "55": 3,
+            "56": 3,
+            "57": 3,
+            "58": 3,
+            "59": 6,
+            "60": 3
+          },
+          "Branches": []
+        },
+        "System.Boolean BookstoreApp.API.Data.AuthRepository::VerifyPasswordHash(System.String,System.Byte[],System.Byte[])": {
+          "Lines": {
+            "63": 2,
+            "64": 2,
+            "65": 2,
+            "66": 2,
+            "68": 132,
+            "69": 65,
+            "70": 65,
+            "71": 1,
+            "72": 64,
+            "73": 2,
+            "75": 1,
+            "76": 2
+          },
+          "Branches": [
+            {
+              "Line": 68,
+              "Offset": 67,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 65
+            },
+            {
+              "Line": 70,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 70,
+              "Offset": 45,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 64
+            },
+            {
+              "Line": 68,
+              "Offset": 67,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void BookstoreApp.API.Data.AuthRepository::.ctor(BookstoreApp.API.Data.IDataContext)": {
+          "Lines": {
+            "12": 8,
+            "13": 8,
+            "14": 8,
+            "16": 8
+          },
+          "Branches": []
+        }
+      },
+      "BookstoreApp.API.Data.AuthRepository/<Login>d__2": {
+        "System.Void BookstoreApp.API.Data.AuthRepository/<Login>d__2::MoveNext()": {
+          "Lines": {
+            "18": 3,
+            "19": 3,
+            "21": 3,
+            "22": 1,
+            "24": 2,
+            "25": 1,
+            "27": 1,
+            "28": 3
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 188,
+              "EndOffset": 258,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 21,
+              "Offset": 303,
+              "EndOffset": 305,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 21,
+              "Offset": 303,
+              "EndOffset": 309,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 24,
+              "Offset": 355,
+              "EndOffset": 357,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 24,
+              "Offset": 355,
+              "EndOffset": 361,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Data.AuthRepository/<Register>d__3": {
+        "System.Void BookstoreApp.API.Data.AuthRepository/<Register>d__3::MoveNext()": {
+          "Lines": {
+            "31": 3,
+            "34": 3,
+            "36": 3,
+            "37": 3,
+            "39": 3,
+            "40": 3,
+            "42": 3,
+            "43": 3
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 14,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 39,
+              "Offset": 148,
+              "EndOffset": 218,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 256,
+              "EndOffset": 325,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Data.AuthRepository/<UserExists>d__4": {
+        "System.Void BookstoreApp.API.Data.AuthRepository/<UserExists>d__4::MoveNext()": {
+          "Lines": {
+            "46": 2,
+            "47": 2,
+            "48": 1,
+            "50": 1,
+            "51": 2
+          },
+          "Branches": [
+            {
+              "Line": 47,
+              "Offset": 191,
+              "EndOffset": 258,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 47,
+              "Offset": 279,
+              "EndOffset": 281,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 47,
+              "Offset": 279,
+              "EndOffset": 285,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Data/BookstoreRepository.cs": {
+      "BookstoreApp.API.Data.BookstoreRepository": {
+        "System.Void BookstoreApp.API.Data.BookstoreRepository::Add(T)": {
+          "Lines": {
+            "17": 1,
+            "18": 1,
+            "19": 1
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Data.BookstoreRepository::Delete(T)": {
+          "Lines": {
+            "22": 1,
+            "23": 1,
+            "24": 1
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Data.BookstoreRepository::.ctor(BookstoreApp.API.Data.IDataContext)": {
+          "Lines": {
+            "12": 8,
+            "13": 8,
+            "14": 8,
+            "15": 8
+          },
+          "Branches": []
+        }
+      },
+      "BookstoreApp.API.Data.BookstoreRepository/<GetBook>d__4": {
+        "System.Void BookstoreApp.API.Data.BookstoreRepository/<GetBook>d__4::MoveNext()": {
+          "Lines": {
+            "27": 1,
+            "28": 1,
+            "30": 1,
+            "31": 1
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 250,
+              "EndOffset": 317,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Data.BookstoreRepository/<GetBooks>d__5": {
+        "System.Void BookstoreApp.API.Data.BookstoreRepository/<GetBooks>d__5::MoveNext()": {
+          "Lines": {
+            "34": 1,
+            "35": 1,
+            "37": 1,
+            "38": 1
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 124,
+              "EndOffset": 191,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Data.BookstoreRepository/<GetPhoto>d__6": {
+        "System.Void BookstoreApp.API.Data.BookstoreRepository/<GetPhoto>d__6::MoveNext()": {
+          "Lines": {
+            "41": 1,
+            "42": 1,
+            "44": 1,
+            "45": 1
+          },
+          "Branches": [
+            {
+              "Line": 42,
+              "Offset": 188,
+              "EndOffset": 255,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Data.BookstoreRepository/<GetMainPhotoForBook>d__7": {
+        "System.Void BookstoreApp.API.Data.BookstoreRepository/<GetMainPhotoForBook>d__7::MoveNext()": {
+          "Lines": {
+            "48": 1,
+            "49": 1,
+            "50": 1
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 250,
+              "EndOffset": 317,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Data.BookstoreRepository/<SaveAll>d__8": {
+        "System.Void BookstoreApp.API.Data.BookstoreRepository/<SaveAll>d__8::MoveNext()": {
+          "Lines": {
+            "53": 2,
+            "54": 2,
+            "55": 2
+          },
+          "Branches": [
+            {
+              "Line": 54,
+              "Offset": 44,
+              "EndOffset": 110,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Data/DataContext.cs": {
+      "BookstoreApp.API.Data.DataContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<BookstoreApp.API.Models.User> BookstoreApp.API.Data.DataContext::get_Users()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<BookstoreApp.API.Models.Book> BookstoreApp.API.Data.DataContext::get_Books()": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<BookstoreApp.API.Models.Photo> BookstoreApp.API.Data.DataContext::get_Photos()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Data.DataContext::Add(T)": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Data.DataContext::Remove(T)": {
+          "Lines": {
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Data.DataContext::SaveChanges()": {
+          "Lines": {
+            "41": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Int32> BookstoreApp.API.Data.DataContext::SaveChangesAsync()": {
+          "Lines": {
+            "46": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookstoreApp.API.Data.DataContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<BookstoreApp.API.Data.DataContext>)": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Data/Seed.cs": {
+      "BookstoreApp.API.Data.Seed": {
+        "System.Void BookstoreApp.API.Data.Seed::SeedBooks(BookstoreApp.API.Data.IDataContext)": {
+          "Lines": {
+            "12": 3,
+            "13": 3,
+            "14": 2,
+            "15": 2,
+            "16": 2,
+            "18": 46,
+            "19": 20,
+            "20": 20,
+            "21": 20,
+            "23": 2,
+            "24": 2,
+            "25": 3
+          },
+          "Branches": [
+            {
+              "Line": 13,
+              "Offset": 17,
+              "EndOffset": 19,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 18,
+              "Offset": 80,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 20
+            },
+            {
+              "Line": 18,
+              "Offset": 80,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 13,
+              "Offset": 17,
+              "EndOffset": 107,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Controllers/AuthController.cs": {
+      "BookstoreApp.API.Controllers.AuthController": {
+        "System.Void BookstoreApp.API.Controllers.AuthController::.ctor(BookstoreApp.API.Data.IAuthRepository,Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "22": 6,
+            "23": 6,
+            "24": 6,
+            "25": 6,
+            "26": 6
+          },
+          "Branches": []
+        }
+      },
+      "BookstoreApp.API.Controllers.AuthController/<Register>d__3": {
+        "System.Void BookstoreApp.API.Controllers.AuthController/<Register>d__3::MoveNext()": {
+          "Lines": {
+            "30": 3,
+            "31": 3,
+            "33": 3,
+            "34": 1,
+            "36": 2,
+            "37": 2,
+            "38": 2,
+            "39": 2,
+            "41": 2,
+            "43": 2,
+            "44": 3
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 14,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 33,
+              "Offset": 94,
+              "EndOffset": 164,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 33,
+              "Offset": 185,
+              "EndOffset": 187,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 33,
+              "Offset": 185,
+              "EndOffset": 209,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 41,
+              "Offset": 285,
+              "EndOffset": 357,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Controllers.AuthController/<Login>d__4": {
+        "System.Void BookstoreApp.API.Controllers.AuthController/<Login>d__4::MoveNext()": {
+          "Lines": {
+            "48": 3,
+            "49": 3,
+            "51": 3,
+            "52": 2,
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1,
+            "58": 1,
+            "60": 1,
+            "61": 1,
+            "63": 1,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "68": 1,
+            "69": 1,
+            "70": 1,
+            "72": 1,
+            "74": 1,
+            "76": 1,
+            "77": 1,
+            "78": 1,
+            "79": 3
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 71,
+              "EndOffset": 140,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 51,
+              "Offset": 185,
+              "EndOffset": 187,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 51,
+              "Offset": 185,
+              "EndOffset": 204,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Controllers/BooksController.cs": {
+      "BookstoreApp.API.Controllers.BooksController": {
+        "System.Void BookstoreApp.API.Controllers.BooksController::.ctor(BookstoreApp.API.Data.IBookstoreRepository,AutoMapper.IMapper)": {
+          "Lines": {
+            "19": 7,
+            "20": 7,
+            "21": 7,
+            "22": 7,
+            "23": 7
+          },
+          "Branches": []
+        }
+      },
+      "BookstoreApp.API.Controllers.BooksController/<GetBooks>d__3": {
+        "System.Void BookstoreApp.API.Controllers.BooksController/<GetBooks>d__3::MoveNext()": {
+          "Lines": {
+            "27": 2,
+            "28": 2,
+            "30": 2,
+            "32": 2,
+            "33": 2
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 44,
+              "EndOffset": 113,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Controllers.BooksController/<GetBook>d__4": {
+        "System.Void BookstoreApp.API.Controllers.BooksController/<GetBook>d__4::MoveNext()": {
+          "Lines": {
+            "37": 2,
+            "38": 2,
+            "40": 2,
+            "42": 2,
+            "43": 2
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 50,
+              "EndOffset": 119,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Controllers.BooksController/<UpdateBook>d__5": {
+        "System.Void BookstoreApp.API.Controllers.BooksController/<UpdateBook>d__5::MoveNext()": {
+          "Lines": {
+            "47": 3,
+            "48": 3,
+            "50": 3,
+            "52": 3,
+            "53": 2,
+            "55": 1,
+            "56": 2
+          },
+          "Branches": [
+            {
+              "Line": 47,
+              "Offset": 14,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 48,
+              "Offset": 61,
+              "EndOffset": 130,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 52,
+              "Offset": 221,
+              "EndOffset": 292,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 52,
+              "Offset": 315,
+              "EndOffset": 317,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 52,
+              "Offset": 315,
+              "EndOffset": 331,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "/home/viniciusou/Bookstore/BookstoreApp/BookstoreApp.API/Controllers/PhotosController.cs": {
+      "BookstoreApp.API.Controllers.PhotosController": {
+        "System.Void BookstoreApp.API.Controllers.PhotosController::.ctor(BookstoreApp.API.Data.IBookstoreRepository,AutoMapper.IMapper,Microsoft.Extensions.Options.IOptions`1<BookstoreApp.API.Helpers.CloudinarySettings>)": {
+          "Lines": {
+            "27": 11,
+            "28": 11,
+            "29": 11,
+            "30": 11,
+            "31": 11,
+            "33": 11,
+            "34": 11,
+            "35": 11,
+            "36": 11,
+            "37": 11,
+            "39": 11,
+            "40": 11
+          },
+          "Branches": []
+        }
+      },
+      "BookstoreApp.API.Controllers.PhotosController/<GetPhoto>d__5": {
+        "System.Void BookstoreApp.API.Controllers.PhotosController/<GetPhoto>d__5::MoveNext()": {
+          "Lines": {
+            "44": 2,
+            "45": 2,
+            "47": 2,
+            "49": 2,
+            "50": 2
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 50,
+              "EndOffset": 119,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Controllers.PhotosController/<>c": {
+        "System.Boolean BookstoreApp.API.Controllers.PhotosController/<>c::<AddPhotoForUser>b__6_0(BookstoreApp.API.Models.Photo)": {
+          "Lines": {
+            "82": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookstoreApp.API.Controllers.PhotosController/<AddPhotoForUser>d__6": {
+        "System.Void BookstoreApp.API.Controllers.PhotosController/<AddPhotoForUser>d__6::MoveNext()": {
+          "Lines": {
+            "55": 0,
+            "56": 0,
+            "58": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0,
+            "83": 0,
+            "85": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "94": 0,
+            "95": 0
+          },
+          "Branches": [
+            {
+              "Line": 55,
+              "Offset": 14,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 61,
+              "EndOffset": 63,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 61,
+              "EndOffset": 130,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 62,
+              "Offset": 209,
+              "EndOffset": 214,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 62,
+              "Offset": 209,
+              "EndOffset": 386,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 482,
+              "EndOffset": 484,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 482,
+              "EndOffset": 507,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 519,
+              "EndOffset": 521,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 519,
+              "EndOffset": 534,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 587,
+              "EndOffset": 589,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 14,
+              "EndOffset": 629,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 587,
+              "EndOffset": 658,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 681,
+              "EndOffset": 683,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 681,
+              "EndOffset": 759,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Controllers.PhotosController/<>c__DisplayClass7_0": {
+        "System.Boolean BookstoreApp.API.Controllers.PhotosController/<>c__DisplayClass7_0::<SetMainPhoto>b__0(BookstoreApp.API.Models.Photo)": {
+          "Lines": {
+            "102": 11
+          },
+          "Branches": []
+        }
+      },
+      "BookstoreApp.API.Controllers.PhotosController/<SetMainPhoto>d__7": {
+        "System.Void BookstoreApp.API.Controllers.PhotosController/<SetMainPhoto>d__7::MoveNext()": {
+          "Lines": {
+            "99": 4,
+            "100": 4,
+            "103": 1,
+            "105": 3,
+            "107": 3,
+            "108": 1,
+            "110": 2,
+            "111": 2,
+            "113": 2,
+            "115": 2,
+            "116": 1,
+            "118": 1,
+            "119": 4
+          },
+          "Branches": [
+            {
+              "Line": 100,
+              "Offset": 112,
+              "EndOffset": 181,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 102,
+              "Offset": 253,
+              "EndOffset": 255,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 102,
+              "Offset": 253,
+              "EndOffset": 272,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 105,
+              "Offset": 313,
+              "EndOffset": 384,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 107,
+              "Offset": 431,
+              "EndOffset": 433,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 107,
+              "Offset": 431,
+              "EndOffset": 455,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 110,
+              "Offset": 491,
+              "EndOffset": 562,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 2
+            },
+            {
+              "Line": 115,
+              "Offset": 650,
+              "EndOffset": 721,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 2
+            },
+            {
+              "Line": 115,
+              "Offset": 744,
+              "EndOffset": 746,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 1
+            },
+            {
+              "Line": 115,
+              "Offset": 744,
+              "EndOffset": 760,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "BookstoreApp.API.Controllers.PhotosController/<>c__DisplayClass8_0": {
+        "System.Boolean BookstoreApp.API.Controllers.PhotosController/<>c__DisplayClass8_0::<DetelePhoto>b__0(BookstoreApp.API.Models.Photo)": {
+          "Lines": {
+            "126": 14
+          },
+          "Branches": []
+        }
+      },
+      "BookstoreApp.API.Controllers.PhotosController/<DetelePhoto>d__8": {
+        "System.Void BookstoreApp.API.Controllers.PhotosController/<DetelePhoto>d__8::MoveNext()": {
+          "Lines": {
+            "123": 5,
+            "124": 5,
+            "127": 1,
+            "129": 4,
+            "131": 4,
+            "132": 1,
+            "134": 3,
+            "135": 0,
+            "136": 0,
+            "138": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "144": 3,
+            "145": 3,
+            "146": 3,
+            "147": 3,
+            "149": 3,
+            "150": 1,
+            "152": 2,
+            "153": 5
+          },
+          "Branches": [
+            {
+              "Line": 124,
+              "Offset": 103,
+              "EndOffset": 172,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            },
+            {
+              "Line": 126,
+              "Offset": 244,
+              "EndOffset": 246,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 126,
+              "Offset": 244,
+              "EndOffset": 263,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 129,
+              "Offset": 304,
+              "EndOffset": 375,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 4
+            },
+            {
+              "Line": 131,
+              "Offset": 422,
+              "EndOffset": 424,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 131,
+              "Offset": 422,
+              "EndOffset": 446,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 3
+            },
+            {
+              "Line": 134,
+              "Offset": 464,
+              "EndOffset": 582,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 3
+            },
+            {
+              "Line": 144,
+              "Offset": 600,
+              "EndOffset": 602,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 3
+            },
+            {
+              "Line": 144,
+              "Offset": 600,
+              "EndOffset": 627,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 3
+            },
+            {
+              "Line": 149,
+              "Offset": 657,
+              "EndOffset": 728,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 3
+            },
+            {
+              "Line": 149,
+              "Offset": 751,
+              "EndOffset": 753,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 1
+            },
+            {
+              "Line": 149,
+              "Offset": 751,
+              "EndOffset": 767,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    }
+  }
+}
